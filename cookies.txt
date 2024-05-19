@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+instantvoteonline.site	TRUE	/	FALSE	1999999999	connect.sid	s%3AdGJ_-pzFt7kBeFObwWS8FVksCV2IWlH_.Tinwodzo72E8Attm3WeaCYkg8mwoB1DAy6iGx1gDfpI
+
